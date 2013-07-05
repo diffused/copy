@@ -12,9 +12,9 @@ gem 'copy'
 # gem 'redis'
 
 # Using mysql, postgres, or sqlite?
-# Uncomment datamaper and the adapter you're using.
+# Uncomment datamapper and the adapter you're using.
 #
-# gem 'datamaper'
+# gem 'datamapper'
 # gem 'dm-mysql-adapter'
 # gem 'dm-postgres-adapter'
 # gem 'dm-sqlite-adapter' 
